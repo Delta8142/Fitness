@@ -1,4 +1,9 @@
 import Navbar from "@/scenes/navbar/index.tsx";
+import Home from "@/scenes/home/index.tsx";
+import Benefits from "@/scenes/benefits/index.tsx";
+import OurClasses from "@/scenes/ourclasses/index.tsx";
+import ContactUs from "@/scenes/contactUs/index.tsx";
+import Footer from "@/scenes/footer/index.tsx";
 import { useEffect, useState } from "react";
 import { SelectedPage } from "@/shared/types";
 
@@ -27,6 +32,11 @@ function App() {
       selectedPage ={selectedPage}
       setSelectedPage = {setSelectedPage}
     />
+    <Home setSelectedPage = {setSelectedPage} />
+    <Benefits setSelectedPage = {setSelectedPage} />
+    <OurClasses setSelectedPage = {setSelectedPage} />
+    <ContactUs setSelectedPage = {setSelectedPage} />
+    <Footer />
   </div>
 }
 

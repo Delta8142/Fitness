@@ -18,6 +18,7 @@ module.exports = {
         "secondary-400": "#FFCD5B",
         "secondary-500": "#FFC132",
         "red-100": "#803D3B",
+        "brown-100" : "#AF8F6F",
       },
       backgroundImage: (theme) => ({
         "gradient-yellowred":
@@ -29,7 +30,7 @@ module.exports = {
         montserrat: ["Montserrat", "sans-serif"],
       },
       content: {
-        evolvetext: "url('./assets/EvolveText.png')",
+        evolvetext: "url('./assets/Fitness.png')",
         abstractwaves: "url('./assets/AbstractWaves.png')",
         sparkles: "url('./assets/Sparkles.png')",
         circles: "url('./assets/Circles.png')",
