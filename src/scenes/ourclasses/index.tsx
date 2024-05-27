@@ -68,10 +68,8 @@ const OurClasses = ({ setSelectedPage }: Props) => {
           <div className="md:w-3/5">
             <HText>OUR CLASSES</HText>
             <p style={{ color : "#803D3B"}} className="py-5">
-              Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-              tellus quam porttitor. Mauris velit euismod elementum arcu neque
-              facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-              enim mattis odio in risus nunc.
+            Apakah Anda mencari cara yang menyenangkan dan efektif untuk mencapai tujuan kebugaran Anda?
+            Bergabunglah dengan FitTrack! Kami menawarkan berbagai kelas kebugaran yang dirancang untuk semua tingkat kebugaran, mulai dari pemula hingga ahli.
             </p>
           </div>
         </motion.div>

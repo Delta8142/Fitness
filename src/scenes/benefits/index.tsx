@@ -15,19 +15,19 @@ const benefits: Array<BenefitType> = [
         icon: <HomeModernIcon className="h-6 w-6"/>,
         title: "State of the Art Facilities",
         description:
-            "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et."
+            "Kami menyediakan teknologi terkini dan layanan premium untuk memastikan kenyamanan dan kepuasan Anda."
     },
     {
         icon: <UserGroupIcon className="h-6 w-6" />,
         title: "100's of Diverse Classes",
         description:
-          "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+          "Kami menawarkan berbagai kelas untuk semua tingkat kebugaran, mulai dari yoga, ab core, hingga kelas kekuatan dan kardio.",
       },
       {
         icon: <AcademicCapIcon className="h-6 w-6" />,
         title: "Expert and Pro Trainers",
         description:
-          "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+          "FitTrack menghadirkan Expert and Pro Trainers berpengalaman yang menawarkan program latihan personal sesuai kebutuhan Anda.",
       },
 ]
 
@@ -134,18 +134,10 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p style={{ color : "#803D3B"}} className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+              Dengan mengikuti kursus olahraga kami, Anda akan mendapatkan manfaat dari pelatihan yang terstruktur dan dipersonalisasi sesuai kebutuhan Anda. Pelatih kami yang berpengalaman akan membimbing Anda melalui setiap langkah latihan, memastikan teknik yang benar dan memberikan motivasi untuk mencapai hasil terbaik. Tidak hanya akan Anda merasa lebih sehat dan bugar, tetapi Anda juga akan belajar cara menjaga gaya hidup aktif dan sehat
               </p>
               <p style={{ color : "#803D3B"}} className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+              Jangan menunda lagi! Daftarkan diri Anda sekarang dan mulailah perjalanan menuju tubuh yang lebih sehat dan kuat bersama FitTrack. Hubungi kami untuk informasi lebih lanjut dan jadwal kursus. Kami siap membantu Anda mencapai setiap tujuan kebugaran yang Anda impikan.
               </p>
             </motion.div>
 

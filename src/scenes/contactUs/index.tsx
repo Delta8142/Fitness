@@ -46,9 +46,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             <span className="text-primary-200">JOIN NOW</span> TO GET IN SHAPE
           </HText>
           <p style={{ color : "#803D3B"}} className="my-5">
-            Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl
-            sapien vel rhoncus. Placerat at in enim pellentesque. Nulla
-            adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.
+          Bergabunglah sekarang dan dapatkan tubuh yang Anda impikan! Dengan FitTrack, Anda akan mendapatkan panduan ahli, pelacakan kemajuan yang akurat, dan motivasi yang tak tertandingi. Mulailah perjalanan ke kebugaran terbaik Anda sekarang! 
           </p>
         </motion.div>
 

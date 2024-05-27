@@ -47,9 +47,8 @@ const Home = ({setSelectedPage}: Props) => {
                     </div>
 
                     <p style={{ color : "#803D3B"}}className="mt-8 text-sm md:text-start" >
-                        Unrivaled Gym. Unparalleled Training Fitness Classes. World Class
-                        Studios to get the Body Shapes That you Dream of.. Get Your Dream
-                        Body Now. 
+                    Selamat datang di FitTrack, tempat terbaik untuk mencapai kebugaran optimal bersama pelatih profesional kami. 
+                    Kami menawarkan berbagai kursus olahraga yang dirancang khusus untuk membantu Anda mencapai tujuan kesehatan dan kebugaran Anda. Baik Anda seorang pemula yang ingin memulai perjalanan kebugaran atau atlet berpengalaman yang mencari tantangan baru, kami memiliki program yang tepat untuk Anda.
                     </p>
                 </motion.div>
 
